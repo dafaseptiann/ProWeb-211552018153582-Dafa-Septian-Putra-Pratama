@@ -1,0 +1,57 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+
+h1{
+  @import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+  color:#00086C;
+  text-align: center;
+  padding: 20px;
+  font-size: 50px;
+  
+  text-shadow: 4px 4px 3px #64357B ;
+  font-style: italic;
+  text-transform: uppercase
+  }
+
+ .bt::first-letter {
+      font-size: 60px;
+      font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+    }
+
+.bg-color-text{
+  background-color: #24255C;
+}
+
+.surabaya{
+  width: 500px;
+}
+
+a:link{
+  color:#19A09E;
+}
+
+a:hover{
+  color:red;
+}
+
+a:visited{
+  color:yellow;
+}
+
+a:active{
+  color:black
+}
+
+p{
+  font-size: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: justify;
+  line-height: 1.5;
+  text-indent:2em
+}
